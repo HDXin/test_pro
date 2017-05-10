@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 testssfdaf 
 
 abc git stash test
+=======
+tests aaaaaaaaaaaaaaaa
+>>>>>>> Stashed changes
